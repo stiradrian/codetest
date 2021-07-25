@@ -1,0 +1,22 @@
+#mainDiv {
+  margin: auto;
+  max-width: 40%;
+  margin-top: 5%;
+  font-size: 14px;
+}
+
+.componentMainDiv {
+  margin-top: 15px;
+}
+
+#buttonDiv {
+  margin-bottom: 5px;
+  float: right;
+  clear: both;
+}
+
+.actionButton {
+  color: #007bff;
+  cursor:pointer;
+}
+
